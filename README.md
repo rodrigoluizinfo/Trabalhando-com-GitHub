@@ -22,7 +22,13 @@
 
 ### Configurações Finais
 
+1. Adicionar link do repositório criado no github
 
+2. - git remote add origin      linkdorespositorionogithub
 
+3. - Para remover o link      adicionado no origin
+   - git remote remove origin
 
+4. Publicar o conteúdo do     repositório local no repositório do github
 
+5. - git push origin master
