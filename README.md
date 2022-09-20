@@ -27,6 +27,10 @@
    * git remote add origin linkdorespositorionogithub
      * Para remover o link adicionado no origin
        * git remote remove origin
-
 2. Publicar o conteúdo do repositório local no repositório do github
    * git push origin master
+3. Quando ocorre uma alteração do arquivo no github e precisa atualizar o repositório local
+   * git pull origin master
+     * Vai ter o arquivo do github e atualizar no repositório local
+       * push = Empurrar (Upload)
+       * pull = Puxar (Download)
