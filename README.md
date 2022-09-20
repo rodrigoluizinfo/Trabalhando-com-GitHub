@@ -11,7 +11,7 @@
    * git config --global user.email "seuemail@dominio.com"
    * git config --global user.name seunome
 
-4. git add*
+4. git add *
 
    * Está definindo tudo que está no diretório será levado para o repositório do github
 
