@@ -34,3 +34,7 @@
      * Vai ter o arquivo do github e atualizar no repositório local
        * push = Empurrar (Upload)
        * pull = Puxar (Download)
+4. git clone urldorepositorionogit
+   * Clona um repositório do git dentro do repositório local, criando um novo repositório com todas as configurações originais
+5. git remote -v
+   * Mostra os repositórios remotos apontados para o github
